@@ -1,0 +1,9 @@
+flask
+langchain
+openai
+faiss-cpu
+PyMuPDF
+dotenv
+langchain-community
+langchain-google-genai
+sentence_transformers
